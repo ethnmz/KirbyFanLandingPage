@@ -1,0 +1,10 @@
+{
+  "description": "Easily design and customize a fan landing page for Kirby enthusiasts, showcasing fan art, news, and community events to engage fellow fans.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
